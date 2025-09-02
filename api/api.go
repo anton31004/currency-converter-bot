@@ -9,8 +9,6 @@ import (
 	"time"
 )
 
-//https://v6.exchangerate-api.com/v6/15f394a87667892e63beaa78/latest/USD
-
 var API string
 
 type ExchangeResponse struct {
